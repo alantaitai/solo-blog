@@ -1,4 +1,4 @@
-<p align="center"><img alt="alantaitai 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="Alantaitai 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
 alantaitai 的个人博客
 </h2>
 
